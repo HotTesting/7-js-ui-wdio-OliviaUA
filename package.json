@@ -30,5 +30,21 @@
     "request": "2.88.0",
     "request-promise-native": "1.0.7",
     "cheerio": "1.0.0-rc.2"
-  }
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StartITProtractorJS/7-js-ui-wdio-OliviaUA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StartITProtractorJS/7-js-ui-wdio-OliviaUA/issues"
+  },
+  "homepage": "https://github.com/StartITProtractorJS/7-js-ui-wdio-OliviaUA#readme"
 }
